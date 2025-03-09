@@ -26,9 +26,9 @@
 рекомендации из лекционного материала.
 Формат ответа: Текстовый документ.
 
-t1_dwh_potok3_accounts:
-![[attachments/Pasted image 20250307220133.png]]
+t1_dwh_potok3_accounts:  
+![alt text](<attachments/Pasted image 20250307220133.png>)  
 
 Модель данных ядра хранилища (3НФ, Inmon):  
-![alt text](attachments/image.png)
+![alt text](attachments/image.png)  
 
