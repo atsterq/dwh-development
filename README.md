@@ -30,5 +30,7 @@ t1_dwh_potok3_accounts:
 ![alt text](<attachments/Pasted image 20250307220133.png>)  
 
 Модель данных ядра хранилища (3НФ, Inmon):  
+- Связи логические, т.к. физические ограничат скорость в рамках GreenPlum;
+- в core слой будет добавлен справочник transaction_type;
 ![alt text](attachments/image.png)  
 
